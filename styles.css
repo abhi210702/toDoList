@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+}
+
+#ulList li.done{
+    color: purple;
+    text-decoration:line-through ;
+}
+
+
+.form-group input, .form-group textarea {
+    padding: 0 0.5em;
+    width: 100%;
+    border-radius: 44px;
+}
+
+
+
+body{
+    background-image: url(bg.jpg);
+    background-size: 100%;
+}
+
+h1{
+    padding: 2%;
+    font-family: 'Changa', sans-serif;
+}
+
+#new-task-help{
+    font-family: 'Lobster Two', cursive;
+}
+
+li{
+    margin: 0.5%;
+    border-radius: 1rem;
+    font-family: 'Changa', sans-serif;
+    font-size: 1rem;
+}
